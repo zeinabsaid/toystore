@@ -1,0 +1,38 @@
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\Bulky_MVC-master\Bulky_MVC-master\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.deps.json
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\Bulky_MVC-master\Bulky_MVC-master\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.runtimeconfig.json
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\Bulky_MVC-master\Bulky_MVC-master\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.dll
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\Bulky_MVC-master\Bulky_MVC-master\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.pdb
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\Bulky_MVC-master\Bulky_MVC-master\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Models.dll
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\Bulky_MVC-master\Bulky_MVC-master\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Utility.dll
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\Bulky_MVC-master\Bulky_MVC-master\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Models.pdb
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\Bulky_MVC-master\Bulky_MVC-master\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Utility.pdb
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\Bulky_MVC-master\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\Bulky_MVC-master\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\Bulky_MVC-master\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\Bulky_MVC-master\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfo.cs
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\Bulky_MVC-master\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\Bulky_MVC-master\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\BulkyBoo.9EA05358.Up2Date
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\Bulky_MVC-master\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.dll
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\Bulky_MVC-master\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\refint\BulkyBook.DataAccess.dll
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\Bulky_MVC-master\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.pdb
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\Bulky_MVC-master\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.genruntimeconfig.cache
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\Bulky_MVC-master\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\ref\BulkyBook.DataAccess.dll
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.deps.json
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.runtimeconfig.json
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.dll
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.pdb
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Models.dll
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Utility.dll
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Models.pdb
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Utility.pdb
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfo.cs
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\BulkyBoo.9EA05358.Up2Date
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.dll
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\refint\BulkyBook.DataAccess.dll
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.pdb
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.genruntimeconfig.cache
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.DataAccess\obj\Debug\net8.0\ref\BulkyBook.DataAccess.dll
