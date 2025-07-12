@@ -1,0 +1,12 @@
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.Utility\bin\Debug\net8.0\toystore.Utility.deps.json
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.Utility\bin\Debug\net8.0\toystore.Utility.dll
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.Utility\bin\Debug\net8.0\toystore.Utility.pdb
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\toystore.Utility.csproj.AssemblyReference.cache
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\toystore.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\toystore.Utility.AssemblyInfoInputs.cache
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\toystore.Utility.AssemblyInfo.cs
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\toystore.Utility.csproj.CoreCompileInputs.cache
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\toystore.Utility.dll
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\refint\toystore.Utility.dll
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\toystore.Utility.pdb
+D:\GetFreeCourses.Co-Udemy-Complete guide to ASP.NET Core MVC (.NET 6)\buky8\New folder\toy ai &I\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\ref\toystore.Utility.dll
